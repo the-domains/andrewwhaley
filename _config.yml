@@ -1,0 +1,28 @@
+name: andrewwhaley
+favicon: null
+layout_spectrum: 0.28015492926351726
+typography_spectrum: 0.14262741059064865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5860180607996881
+  lightness: 0.8679483970627189
+  saturation: 0.03252950240857899
+  rhythmicContrast: 0.510916372993961
+purpose: []
